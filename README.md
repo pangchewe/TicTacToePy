@@ -1,2 +1,3 @@
 # TicTacToePy
-python code tic tac toe
+Basic Tic Tac Toe made by Python
+## For education only
